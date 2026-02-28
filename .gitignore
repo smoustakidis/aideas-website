@@ -1,0 +1,9 @@
+node_modules/
+temporary screenshots/
+*.bak
+CLAUDE.md
+screenshot.mjs
+serve.mjs
+build-spa.mjs
+package.json
+package-lock.json
